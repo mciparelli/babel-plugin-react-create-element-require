@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-react-create-element-require",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Babel plugin that adds react's createElement import declaration",
   "keywords": [
     "babel",
